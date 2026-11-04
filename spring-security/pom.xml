@@ -38,7 +38,7 @@
     </licenses>
 
     <properties>
-        <keycloak.version>25.0.1</keycloak.version>
+        <keycloak.version>26.0.10</keycloak.version>
     </properties>
 
     <dependencies>
